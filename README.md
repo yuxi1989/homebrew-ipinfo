@@ -2,6 +2,10 @@
 
 Homebrew tap for installing `ipcn`.
 
+`ipcn` 的 Homebrew Tap 仓库，用于在 macOS 上快速安装和升级 `ipcn` 命令行工具。
+
+Related project: [ipcn](https://github.com/yuxi1989/ipcn)
+
 ## Tap and install
 
 ```bash
